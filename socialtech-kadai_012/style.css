@@ -1,0 +1,42 @@
+#ul {
+    display: flex;
+    list-style: none;
+}
+li {
+    width: 33%;
+    margin: 20px;
+    }
+
+.case-card {
+    background-color: #ffffff;
+    min-height: 400px;
+    box-shadow: 2px 2px 4px #dddddd;
+}
+
+li img {
+    width: 100%;
+}
+
+.case-info {
+    padding: 10px 20px;
+}
+
+.case-name {
+    color:#2710d5;
+    font-size: 19px;
+}
+
+.case-content {
+    font-size: 14px;
+}
+
+h2::after {
+    content: url(./images/line.png);
+    margin-left: 10px;
+}
+
+#cases {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+}
