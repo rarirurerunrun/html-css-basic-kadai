@@ -8,6 +8,6 @@ heiGht = 1.7;
 console.log(heiGht*heiGht);
 console.log(68);
 //値の再代入
-heiGht = 2.89;
+heiGht = 2.8899999999999997;
 //コンソールへの出力
 console.log(bodyWeight/heiGht);
