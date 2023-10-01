@@ -1,5 +1,5 @@
 const  calculateTotal = (price) => {
-    console.log(price + 50);
+    console.log(price * 10);
 }
 
-calculateTotal(50);
+calculateTotal(10);
