@@ -9,4 +9,6 @@
 <body>
     <p>
         <?php
-        
+        $detail = ["name" => "onion", "price" => 200, "weight" => 160];
+
+        print_r($detail);
